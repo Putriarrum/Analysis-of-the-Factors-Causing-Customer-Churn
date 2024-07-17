@@ -1,4 +1,4 @@
-# DA Churn Analysis Telecommucation Company
+# Customer Churn Analysis Telecommucation Company
 <br>
 
 - **Tools** : Google Colabs, Canva, Github <br>
