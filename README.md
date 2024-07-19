@@ -44,15 +44,13 @@ Before conducting data visualization, several stages of data understanding must 
 - **In Bandung, 33% of the total revenue of IDR 89,610,924** was derived from churned customers, with the **average expenditure of churned customers increasing by 21.64%**. 
 - **In Jakarta, only 29.91% of the total revenue of IDR 232,442,132** was from churned customers, with the **average expenditure of churned customers increasing by 13.74%**.
 - Therefore, although Jakarta's total revenue is higher, the percentage and increase in expenditure from churned customers in Bandung are greater. This indicates that while churned customers contribute approximately 33% of the total revenue in Bandung, their average expenditure is higher compared to the overall average customer expenditure. This could suggest that higher-spending customers are more likely to churn, or that losing these customers has a significant impact on revenue.
-<br>
 
 ### Payment Method
 - For the **Pulsa payment method**, **revenue from churned customers is IDR 60,125,676, accounting for 46.50%** of the **total revenue of IDR 129,338,625.**  
 - In the **Digital Wallet payment method**, **revenue from churned customers is IDR 11,725,233, representing 23.46%** of **the total revenue of IDR 49,978,227**.
 - For the **Debit payment method**, **revenue from churned customers is IDR 15,062,853, which is 20.47%** of the **total revenue of IDR 73,583,432**. 
 - In the **Credit payment method**, **revenue from churned customers is IDR 12,178,842, or 17.63%** of the **total revenue of IDR 69,152,772**.
-- Based on revenue from churned customers and the increase in average expenditure of these customers compared to the overall average expenditure: Pulsa, Digital Wallet, Debit, and Credit. Understanding this order of impact allows the company to prioritize retention strategies for the most affected payment methods, particularly Pulsa and Digital Wallet, to minimize revenue loss due to churn.
-<br>
+- Based on revenue from churned customers and the increase in average expenditure of these customers compared to the overall average expenditure: Pulsa, Digital Wallet, Debit, and Credit. Understanding this order of impact allows the company to prioritize retention strategies for **the most affected payment methods, particularly Pulsa and Digital Wallet, to minimize revenue loss due to churn.**
 
 ### Product
 - **Video Product has the greatest impact**, with **31.58% of total revenue coming from churned customers and a significant increase in their average expenditure (+5.01%)**. The loss of these customers significantly affects the company's revenue.  
